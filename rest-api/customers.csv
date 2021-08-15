@@ -1,0 +1,6 @@
+CustomerId,FirstName,LastName,Address
+1,Jack,Pearson,"{ City: 'Pittsburgh', State: 'Pennsylvania' }"
+2,Rebecca,Malone,"{ City: 'Pittsburgh', State: 'Pennsylvania' }"
+3,Kate,Pearson,"{ City: 'Los Angeles', State: 'California' }"
+4,Kevin,Pearson,"{ City: 'New York', State: 'New York' }"
+5,Randall,Pearson,"{ City: 'Philadelphia', State: 'Pennsylvania' }"
